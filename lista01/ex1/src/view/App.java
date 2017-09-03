@@ -8,7 +8,7 @@ package view;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import model.Pessoa;
-import service.IMC;
+import control.IMC;
 
 /**
  *
