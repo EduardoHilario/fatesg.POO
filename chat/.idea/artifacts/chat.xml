@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="chat">
+    <output-path>$PROJECT_DIR$/out/artifacts/chat</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="chat.apk" />
+  </artifact>
+</component>
